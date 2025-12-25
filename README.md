@@ -18,8 +18,8 @@
 
 ### 🧠 Next-Advisory
 <p align="center">
-  <a href="https://github.com/KerolosAtef/next-advisory">
-    <img src="https://raw.githubusercontent.com/KerolosAtef/next-advisory/main/screenshots/cover.png" alt="Next-Advisory Cover" width="700">
+  <a href="https://github.com/kerolosatef1/Next--Advisory">
+    <img src="https://raw.https://github.com/kerolosatef1/Next--Advisory/main/screenshots/cover.png" alt="Next-Advisory Cover" width="700">
   </a>
 </p>
 
