@@ -11,13 +11,17 @@ src="https://github-readme-stats.vercel.app/api?username=kerolosatef&show_icons=
 <img align="right" width="400" height="165"
 src="YOUR_PROFESSIONAL_IMAGE_URL_HERE"/>
 
-<br/><br/><br/><br/><br/><br/>
+
+
+
+
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
+
 <div>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
@@ -28,14 +32,22 @@ src="YOUR_PROFESSIONAL_IMAGE_URL_HERE"/>
 </div>
 
 
+
+
 ### 💅 Styling & UI
+
 <div>
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
 </div>
+
+
+
+
 ### 🔄 State & Data
+
 <div>
 <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
@@ -43,7 +55,11 @@ src="YOUR_PROFESSIONAL_IMAGE_URL_HERE"/>
 <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
 </div>
+
+
+
 ### 🛠 Tools & Workflow
+
 <div>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -55,7 +71,12 @@ src="YOUR_PROFESSIONAL_IMAGE_URL_HERE"/>
 </div>
 ---
 
+
+
+
+
 ## 📌 About Me
+
 - Frontend Developer specialized in **React & Next.js**
 - Focused on **performance, clean UI, and scalable code**
 - Experience building dashboards, e-commerce, and admin systems
