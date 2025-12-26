@@ -1,15 +1,6 @@
-<h1 align="center">Hi 👋 I'm Kerolos Atef</h1>
-<p align="center">
-  Frontend Developer | React & Next.js
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" />
-  
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
@@ -33,76 +24,112 @@
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
+  </p>
+</p>
+<p>
+  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
+  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+<p>
+  🎶Now playing ...🎶<br/>
+  <a href="http://spotify-informer.daniels-roth-stan.fr/">
+    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
+  </a><br/>
+  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
 </p>
 
----
-
-## 🔥 Featured Projects
-
-### 🧠 Next-Advisory
-<p align="center">
-  <a href="https://github.com/kerolosatef1/Next--Advisory">
-    <img src="https://raw.https://github.com/kerolosatef1/Next--Advisory/main/screenshots/cover.png" alt="Next-Advisory Cover" width="700">
-  </a>
+<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
+<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
+<p>
+  🧔 Moi c'est <bold>Stan</bold>. 25 ans, barbu et un amateur de code et de 🍺.<br/>
+  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
+  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
+  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
+  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
 </p>
+<p>
+  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
+</p><br/>
 
-**📌 Description:**  
-AI-powered academic advisory system using Next.js & React.  
-Students receive intelligent guidance and timetable conflict checks.
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-**🛠 Tech Stack:** Next.js, React, Tailwind CSS, REST API, React Query
+<details>
+  <summary>Quelques statistiques ...</summary><br/>
 
-**🔗 Links:**  
-👉 Live: https://next-advisory.vercel.app  
-👉 Code: https://github.com/KerolosAtef/next-advisory
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C830%20hrs%2016%20mins-blue)
 
----
+![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue)
 
-### 🛒 E-Commerce React App
-<p align="center">
-  <a href="https://github.com/KerolosAtef/e-commerce-react">
-    <img src="https://raw.githubusercontent.com/KerolosAtef/e-commerce-react/main/screenshots/cover.png" alt="E-Commerce React Cover" width="700">
-  </a>
-</p>
+**🐱 My GitHub Data** 
 
-**📌 Description:**  
-Modern e-commerce interface built with React, featuring cart management, product search, and responsive UI.
+> 📦 2.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 41 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-**🛠 Tech Stack:** React, Tailwind CSS, Context API
+```text
+🌞 Morning                3469 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+🌆 Daytime                19871 commits       ████████████░░░░░░░░░░░░░   46.76 % 
+🌃 Evening                15229 commits       █████████░░░░░░░░░░░░░░░░   35.84 % 
+🌙 Night                  3923 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+```
+📅 **I'm Most Productive on Wednesday** 
 
-**🔗 Links:**  
-👉 Live: https://e-commerce-react.vercel.app  
-👉 Code: https://github.com/KerolosAtef/e-commerce-react
+```text
+Monday                   6553 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Tuesday                  7151 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                9136 commits        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Thursday                 7259 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Friday                   5878 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Saturday                 3034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Sunday                   3481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+```
 
----
 
-### ☁️ Weather Project
-<p align="center">
-  <a href="https://github.com/KerolosAtef/weather-project">
-    <img src="https://raw.githubusercontent.com/KerolosAtef/weather-project/main/screenshots/cover.png" alt="Weather Project Cover" width="700">
-  </a>
-</p>
+📊 **This Week I Spent My Time On** 
 
-**📌 Description:**  
-Simple & sleek weather app fetching real-time data from API.
+```text
+🕑︎ Time Zone: Europe/Paris
 
-**🛠 Tech Stack:** HTML, CSS, JavaScript
+💬 Programming Languages: 
+Vue.js                   4 hrs 36 mins       ██████████████████░░░░░░░   73.22 % 
+JSON                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+MDX                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
-**🔗 Links:**  
-👉 Live: https://weather-project.vercel.app  
-👉 Code: https://github.com/KerolosAtef/weather-project
+🔥 Editors: 
+VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
 
----
+💻 Operating System: 
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
+```
 
-## 📊 GitHub Stats
+**I Mostly Code in JavaScript** 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KerolosAtef&show_icons=true&theme=radical" />
-</p>
+```text
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+```
 
----
 
-## 📫 Contact
 
-📧 Email: atefkerolos25@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/kerolosatef  
+
+ Last Updated on 26/12/2025 00:07:55 UTC
+<!--END_SECTION:waka-->
+</details>
