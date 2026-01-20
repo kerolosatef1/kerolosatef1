@@ -40,6 +40,8 @@ React • Next.js • TypeScript • Modern UI
 <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+
 </div>
 
 
