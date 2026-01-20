@@ -5,10 +5,9 @@ React • Next.js • TypeScript • Modern UI
 
 ---
 
-<p>
-  <img align="left" width="490" height="165"
-       src"https://drive.google.com/file/d/1I4oOrF0q4sz-iEFN_v8TIdqWBFEkh0Qm/view?usp=sharing"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=25&pause=1000&color=F710F0&width=435&lines=Kerolos+Atef+Faragalla;Front-End+Devoloper+React%7C+Next+" alt="Typing SVG" />
+</div>
 
 
 
