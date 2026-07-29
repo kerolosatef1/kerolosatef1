@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Kerolos Atef
 
-**Frontend Developer**  
-React • Next.js • TypeScript • Modern UI
+**Frontend & Mobile App Developer**
+React • Next.js • React Native • TypeScript
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=F710F0&center=true&vCenter=true&width=800&lines=Kerolos+Atef+Faragalla;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;React+Native+Mobile+Apps;Building+Modern+Web+%26+Mobile+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=F710F0&center=true&vCenter=true&width=900&lines=Kerolos+Atef+Faragalla;Frontend+%26+Mobile+App+Developer;React+%7C+Next.js+%7C+React+Native;Building+Modern+Web+%26+Mobile+Applications" alt="Typing SVG" />
 </div>
 
 
@@ -23,8 +23,9 @@ React • Next.js • TypeScript • Modern UI
 
 <div>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -80,7 +81,7 @@ React • Next.js • TypeScript • Modern UI
 
 ## 📌 About Me
 
-- Frontend Developer specialized in **React & Next.js**
+- Frontend Developer specialized in **React & Next.js & React Native**
 - Focused on **performance, clean UI, and scalable code**
 - Experience building dashboards, e-commerce, and admin systems
 - Comfortable working with APIs, state management, and modern UI libraries
