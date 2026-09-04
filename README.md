@@ -6,8 +6,9 @@ React • Next.js • React Native • TypeScript
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=F710F0&center=true&vCenter=true&width=900&lines=Kerolos+Atef+Faragalla;Frontend+%26+Mobile+App+Developer;React+%7C+Next.js+%7C+React+Native;Building+Modern+Web+%26+Mobile+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1200&color=F710F0&center=true&vCenter=true&width=1000&lines=Kerolos+Atef+Faragalla;Frontend+%26+Mobile+App+Developer;React+%7C+Next.js+%7C+React+Native;IT+Support+Engineer;Network+Administrator;System+Administrator;Building+Modern+Web+%26+Mobile+Applications" alt="Typing SVG" />
 </div>
+
 
 
 
